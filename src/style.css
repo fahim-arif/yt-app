@@ -1,0 +1,25 @@
+.search {
+  padding-top: 50px;
+  width: 750px;
+}
+.ui-1 {
+  padding: 50px;
+}
+.video-player iframe {
+  display: flex !important;
+  align-items: center !important;
+  content: center !important;
+  padding-left: 50px;
+}
+.video-list{
+    cursor: pointer;
+}
+.grid-1 img {
+ 
+  max-width: 180px;
+}
+.grid-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
